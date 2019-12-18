@@ -1,4 +1,4 @@
 language: php
 install: skip
 script:
-        curl -k -X GET https://pumba-dev.vital-it.ch/ping.php        
+        curl -k -X GET https://pumba.vital-it.ch/ping.php        
